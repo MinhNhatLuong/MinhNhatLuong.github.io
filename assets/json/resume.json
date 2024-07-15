@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Luong Minh Nhat",
+    "label": "Full-stack Developer",
+    "image": "pro192.png",
+    "email": "luongminhnhat1604@gmail.com",
+    "phone": "(+84) 378-160-061",
+    "url": "https://minhnhatluong.github.io/",
+    "summary": "I am a person with a strong passion for Full-stack Development. I have a keen interest in both front-end and back-end technologies and have gained hands-on experience through projects and coursework. My goal is to become a full-stack engineer within the next three years.  I would love to work with tasks such as Front-end, Back-end Developer or database building.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Tan Phu district",
+      "postalCode": "720000",
+      "city": "Ho Chi Minh City",
+      "countryCode": "VN",
+      "region": ""
     },
     "profiles": [
       {
