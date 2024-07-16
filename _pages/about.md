@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Short Bio:** My name is <i>Lương Minh Nhật</i> - Vietnamese. I am currently a first-year Student pursuing a Bachelor's degree in <a href="https://daihoc.fpt.edu.vn/en/software-engineering/">Software Engineering</a>, <a href="daihoc.fpt.edu.vn/en/">FPT University HCMC Campus</a>, Vietnam. I am passionate about full-stack development, with a keen interest in both front-end and back-end technologies. I am actively seeking to expand my experience through various projects.
+**Short Bio:** My name is <i>Lương Minh Nhật</i> - Vietnamese. I am currently a first-year Student pursuing a Bachelor's degree in <a href="https://daihoc.fpt.edu.vn/en/software-engineering/">Software Engineering</a>, <a href="https://daihoc.fpt.edu.vn/en/">FPT University HCMC Campus</a>, Vietnam. I am passionate about full-stack development, with a keen interest in both front-end and back-end technologies. I am actively seeking to expand my experience through various projects.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
