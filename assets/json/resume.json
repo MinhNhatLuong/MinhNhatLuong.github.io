@@ -50,14 +50,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "MAEgicians",
+      "location": "Ho Chi Minh city, Vietnam",
+      "position": "Design - Page Manager Team Leader",
+      "url": "https://www.facebook.com/maegicians",
+      "startDate": "2024-05-22",
+      "endDate": "2024-07-17",
+      "summary": "Leader of the Design and Page Manager team for MAEgicicans, a teaching page for MAE101 at FPT University, responsible for creating content and making exam forms.",
+      "highlights": ["Successfully achieved over 4.1K reach and 3.9K visits.", "Developed comprehensive content and effective exam materials for the course."]
     }
   ],
   "education": [
@@ -75,11 +75,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "30% Scholarship",
+      "date": "2023-05-07",
+      "awarder": "FPT University",
+      "url": "https://drive.google.com/file/d/13cpJa43i3Y7kPYr7AqVoTScteWcy48Ct/view?usp=sharing",
+      "summary": "The scholarship is awarded to excellent students having participated in the FPT entrance test.'"
     }
   ],
   "certificates": [
