@@ -26,7 +26,7 @@
     {
       "name": "TEDxFPTUniversity - Skillcetera Club",
       "position": "Logistic Vice Leader",
-      "url": "https://example.com",
+      "url": "https://www.facebook.com/TEDxFPTUniversityHCMC",
       "startDate": "2024-01-01",
       "endDate": "2024-06-01",
       "summary": "Arranging gifts for attendees and managing bills."
@@ -34,7 +34,7 @@
     {
       "name": "TEDxFPTUniversity - Skillcetera Club",
       "position": "Event Management Member",
-      "url": "https://example.com",
+      "url": "https://www.facebook.com/TEDxFPTUniversityHCMC",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
       "summary": "Administrating outside the hall (event experience area, check-in, booth,...); Build and setup concept."
@@ -42,10 +42,18 @@
     {
       "name": "TEDxFPTUniversity - Skillcetera Club",
       "position": "TEDxFPTUniversity Sales Member",
-      "url": "https://example.com",
+      "url": "https://www.facebook.com/TEDxFPTUniversityHCMC",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
       "summary": "Planning and selling TED merchandise; supporting the customers (calling to confirm, reminders, etc.), handling on-stage tasks."
+    },
+    {
+      "name": "Skillcetera Club",
+      "position": "Logistic Vice Leader",
+      "url": "https://www.facebook.com/skillcetera",
+      "startDate": "2024-07-14",
+      "endDate": "Present",
+      "summary": "Handle school bills requests and manage club and sopnsor items."
     }
   ],
   "volunteer": [
