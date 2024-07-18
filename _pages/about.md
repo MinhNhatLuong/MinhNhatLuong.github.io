@@ -20,6 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 **Short Bio:** My name is <i>Lương Minh Nhật</i> - Vietnamese. I am currently a first-year Student pursuing a Bachelor's degree in <a href="https://daihoc.fpt.edu.vn/en/software-engineering/">Software Engineering</a>, <a href="https://daihoc.fpt.edu.vn/en/">FPT University HCMC Campus</a>, Vietnam. I am passionate about full-stack development, with a keen interest in both front-end and back-end technologies. I am actively seeking to expand my experience through various projects.
 
+**Interested fields:**  
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
